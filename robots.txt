@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://auphohrei.pion.ly/sitemap.xml
